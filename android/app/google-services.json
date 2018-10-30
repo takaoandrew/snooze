@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "466963999254",
+    "firebase_url": "https://snoozapp.firebaseio.com",
+    "project_id": "snoozapp",
+    "storage_bucket": "snoozapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466963999254:android:459fafaaf8adc90b",
+        "android_client_info": {
+          "package_name": "com.takaoandrew.snoozeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466963999254-h6ch40ok3hh6qdincehaemk4btfunmkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7noiVjRTYWBdIqdyx79-c0qvcpFxLIAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
